@@ -17,7 +17,17 @@
 - 📜 **Three Address Code Generation**: Generates intermediate representation for expressions and assignments.
 
 ---
+## ♿ Accessibility & Inclusivity
 
+**VoxCoder** is designed with inclusivity at its core, making programming more accessible for:
+
+- 👦 **Children** just starting their coding journey — no need to type, just speak!
+- 👩‍🏫 **Teachers** conducting live demos or coding lessons — speed up your workflow with hands-free coding.
+- 🧑‍🦽 **Individuals with motor or visual impairments** — VoxCoder supports hands-free interaction and integrates text-to-speech (`pyttsx3`) for auditory feedback(feature under development).
+
+Whether you're learning, teaching, or navigating physical challenges, VoxCoder ensures that **coding remains inclusive, intuitive, and empowering** for everyone.
+
+---
 ## 📦 Requirements
 
 Make sure you have Python 3.x and the following libraries installed:
