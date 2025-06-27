@@ -17,6 +17,7 @@
 - 📜 **Three Address Code Generation**: Generates intermediate representation for expressions and assignments.
 
 ---
+
 ## ♿ Accessibility & Inclusivity
 
 **VoxCoder** is designed with inclusivity at its core, making programming more accessible for:
